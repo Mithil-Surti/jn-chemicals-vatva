@@ -14,7 +14,7 @@ export default function HomePage() {
     <>
       {/* Hero */}
       <section className="relative min-h-screen flex items-center bg-gradient-to-br from-[#0047AB] via-[#003d99] to-[#002d73] pt-16">
-        <div className="absolute inset-0 opacity-10 bg-[url('https://placehold.co/1920x1080/ffffff/ffffff?text=')] bg-cover" />
+        <div className="absolute inset-0 opacity-10 bg-white/5" />
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24 grid md:grid-cols-2 gap-12 items-center">
           <div className="text-white">
             <span className="inline-block bg-white/20 text-white text-sm px-4 py-1.5 rounded-full mb-6 font-medium">
